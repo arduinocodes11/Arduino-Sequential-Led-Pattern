@@ -1,0 +1,37 @@
+LED 1 (Arduino pin 13)
+
+Wire going from Arduino pin 13 → breadboard hole A10
+
+LED long leg → breadboard hole B10
+
+LED short leg → breadboard hole B11
+
+Resistor going from breadboard hole C11 → breadboard hole D11
+
+Wire going from breadboard hole E11 → breadboard blue (–) rail
+
+Wire going from Arduino GND → breadboard blue (–) rail
+
+LED 2 (Arduino pin 12)
+
+Wire going from Arduino pin 12 → breadboard hole A15
+
+LED long leg → breadboard hole B15
+
+LED short leg → breadboard hole B16
+
+Resistor going from breadboard hole C16 → breadboard hole D16
+
+Wire going from breadboard hole E16 → breadboard blue (–) rail
+
+LED 3 (Arduino pin 11)
+
+Wire going from Arduino pin 11 → breadboard hole A20
+
+LED long leg → breadboard hole B20
+
+LED short leg → breadboard hole B21
+
+Resistor going from breadboard hole C21 → breadboard hole D21
+
+Wire going from breadboard hole E21 → breadboard blue (–) rail
